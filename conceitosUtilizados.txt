@@ -1,0 +1,5 @@
+Conceitos utilizados no meu código:
+- Fila: Estrutura para armazenamento temporário de mensagens, permitindo comunicação assíncrona entre produtor e consumidor.
+- Produtor: Componente que envia mensagens para a fila.
+- Consumidor: Componente que recebe e processa mensagens da fila.
+- Durabilidade: Configuração para que as mensagens e filas sejam persistentes, garantindo que os dados não se percam em caso de falhas.
